@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a human (as far as I know, and as far as you know...). I like data and dancing. They haven't yet occured simultaneously, but there is time yet 💅
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leahkemp&show_icons=true&theme=dark)
 
 <!--
